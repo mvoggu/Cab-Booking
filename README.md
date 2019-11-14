@@ -1,2 +1,2 @@
 # Cab-Booking
-Java swing program with mysql database
+Java Cab Booking Program, Swing for GUI, mySql for database
